@@ -1,0 +1,5 @@
+total 4
+drwxr-xr-x 1 cpkopp_Lecturer 197121 0 Jan 19 11:37 ./
+drwxr-xr-x 1 cpkopp_Lecturer 197121 0 Jan 19 11:36 ../
+drwxr-xr-x 1 cpkopp_Lecturer 197121 0 Jan 19 11:37 .git/
+-rw-r--r-- 1 cpkopp_Lecturer 197121 0 Jan 19 11:37 test.txt
